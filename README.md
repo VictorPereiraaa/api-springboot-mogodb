@@ -1,5 +1,5 @@
 # Posts API
-API of a system of posts and comments using SpringBoot, JPA/Hibernate and MongoDB
+Posts and comments API using SpringBoot, JPA/Hibernate and MongoDB
 
 ## Domain Model
 ![im](https://user-images.githubusercontent.com/55858659/86297949-ff5c8080-bbd2-11ea-8837-5d42a5ab4dce.png)
